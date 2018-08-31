@@ -1,2 +1,1 @@
-# ZyLearningNote
-中医学习笔记
+# 中医学习笔记
